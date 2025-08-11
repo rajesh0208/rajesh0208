@@ -32,19 +32,19 @@
 
 ### ✈️ [Airline Reservation System](https://github.com/rajesh0208/Airline-Reservation-system)  
 Full-stack airline booking & management system.  
-![Airline Reservation Demo](PROJECT_IMAGE_LINK)
+![Airline Reservation Demo]
 
 ### 🎮 [Mobile Maze](https://github.com/rajesh0208/Mobile_Maze)  
 A mobile-first maze game with responsive controls and progressive difficulty.  
-![Mobile Maze Demo](PROJECT_IMAGE_LINK)
+![Mobile Maze Demo]
 
 ### 💰 [Expense Tracker](https://github.com/rajesh0208/Expense_Tracker)  
 Track income, expenses, and visualize spending trends.  
-![Expense Tracker Demo](PROJECT_IMAGE_LINK)
+![Expense Tracker Demo]
 
 ### 🌦 [Weather App](https://github.com/rajesh0208/weather)  
 Responsive weather forecast app using real-time API data.  
-![Weather App Demo](PROJECT_IMAGE_LINK)
+![Weather App Demo]
 
 ---
 
