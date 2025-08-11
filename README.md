@@ -13,8 +13,9 @@
 
 <!-- Visitor Count -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rajesh0208/count.svg" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/rajesh0208.github/profile" alt="Visitor Badge" />
 </p>
+
 
 ---
 
