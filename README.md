@@ -1,19 +1,15 @@
 <!-- Profile Header -->
 <div align="center">
 
-  <<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps" alt="Rajesh's Typing SVG" />
 
-  <!-- GitHub follower badge -->
+  <!-- Badges -->
   <p>
     <img src="https://img.shields.io/github/followers/rajesh0208?label=Followers&style=for-the-badge" alt="GitHub followers" />
+    <img src="https://komarev.com/ghpvc/?username=rajesh0208&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
   </p>
 
 </div>
-
-
-
-
-
 
 ---
 
@@ -66,7 +62,7 @@ Real-time weather data with clean UI and API integration.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-illapu-0962511bb/)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)-->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)-->  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsjeshillapu223@gmail.com)
 
 ---
