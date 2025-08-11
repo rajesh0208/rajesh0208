@@ -35,48 +35,40 @@
 
 ### ✈ [Airline Reservation System](https://github.com/rajesh0208/Airline-Reservation-system)  
 Full-stack system for flight booking, scheduling, and passenger management.  
-<!--![Airline Reservation Demo](PROJECT_GIF_OR_IMAGE_LINK)-->
+<!--![Airline Reservation Demo](PROJECT_GIF_OR_IMAGE_LINK) -->
 
 ---
 
 ### 🎮 [Mobile Maze](https://github.com/rajesh0208/Mobile_Maze)  
 Interactive maze game with dynamic level generation.  
-<!--![Mobile Maze Demo](PROJECT_GIF_OR_IMAGE_LINK)-->
+<!--![Mobile Maze Demo](PROJECT_GIF_OR_IMAGE_LINK) -->
 
 ---
 
 ### 💰 [Expense Tracker](https://github.com/rajesh0208/Expense_Tracker)  
 Track your expenses, view insights, and manage budgets.  
-<!--![Expense Tracker Demo](PROJECT_GIF_OR_IMAGE_LINK)-->
+<!--Expense Tracker Demo](PROJECT_GIF_OR_IMAGE_LINK) -->
 
 ---
 
 ### 🌦 [Weather App](https://github.com/rajesh0208/weather)  
 Real-time weather data with clean UI and API integration.  
-<!--![Weather App Demo](PROJECT_GIF_OR_IMAGE_LINK)-->
+<!--_![Weather App Demo](PROJECT_GIF_OR_IMAGE_LINK)-->
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=transparent)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=transparent)
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub stats (dark)" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub stats (light)" height="165" />
+---
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top languages (dark)" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top languages (light)" height="165" />
-
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub streak (dark)" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub streak (light)" height="165" />
-</div>
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-illapu-0962511bb/)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)-->
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshillapu223@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsjeshillapu223@gmail.com)
 
 ---
 
