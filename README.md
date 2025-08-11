@@ -1,24 +1,17 @@
-## Hi there 👋
-
-<!--
-  README for GitHub profile: rajesh0208
-  Instructions: create a repo named exactly `rajesh0208`, add this file as README.md, replace placeholders.
--->
-
 <div align="center">
   <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Rajesh+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps" alt="Typing SVG"/>
 
-  <!-- Visitor badge -->
+  <!-- Follower badge -->
   <p>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=rajesh0208.rajesh0208" alt="visitor badge" />
+    <img src="https://img.shields.io/github/followers/rajesh0208?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </p>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-**Rajesh** — Software Engineer focused on building scalable applications, real-time features, and clean engineering. I enjoy algorithmic challenges, system design, and shipping production-ready code.
+**Rajesh** — Software Engineer focused on scalable apps, real-time features, and clean engineering. I enjoy algorithmic challenges, system design, and production-grade coding.
 
 ---
 
@@ -38,73 +31,51 @@
 ## 📌 Featured Projects
 
 ### ✈️ [Airline Reservation System](https://github.com/rajesh0208/Airline-Reservation-system)  
-Full-stack ticket booking & flight management system — bookings, schedules, passenger records.
+Full-stack airline booking & management system.  
+![Airline Reservation Demo](PROJECT_IMAGE_LINK)
 
 ### 🎮 [Mobile Maze](https://github.com/rajesh0208/Mobile_Maze)  
-A mobile-first maze game with responsive controls and progressive difficulty.
+A mobile-first maze game with responsive controls and progressive difficulty.  
+![Mobile Maze Demo](PROJECT_IMAGE_LINK)
 
 ### 💰 [Expense Tracker](https://github.com/rajesh0208/Expense_Tracker)  
-Track income & expenses, visualize spending trends, and manage budgets.
+Track income, expenses, and visualize spending trends.  
+![Expense Tracker Demo](PROJECT_IMAGE_LINK)
 
 ### 🌦 [Weather App](https://github.com/rajesh0208/weather)  
-Responsive weather forecast app using public APIs for real-time data.
+Responsive weather forecast app using real-time API data.  
+![Weather App Demo](PROJECT_IMAGE_LINK)
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats (Auto Light/Dark Mode)
 
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=default&hide_border=true">
+</picture>
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=default&hide_border=true">
+</picture>
 
-<!-- Activity graph (nice visual) -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rajesh0208&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rajesh0208&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=rajesh0208&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=rajesh0208&theme=default&hide_border=true">
+</picture>
 
 ---
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-illapu-0962511bb/)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL) -->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)-->
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshillapu223@gmail.com)
 
 ---
 
-## 🎯 Goals & What I'm Building
-- Build production-grade distributed systems and realtime features for TeamCollab-style apps.  
-- Keep improving algorithmic and system design skills.  
-- Contribute to open-source libraries and mentor newer devs.
-
----
-
 ## ✨ Fun Fact
-I love optimizing code and squeezing extra performance out of algorithms — and I enjoy filter-coffee breaks while debugging. ☕️
-
----
-
-### How to install this README
-1. Create a **new repository** on GitHub named exactly: `rajesh0208`  
-2. Copy & paste this entire file into the repo as `README.md` and commit.  
-3. Replace `YOUR_LINKEDIN_URL`, `YOUR_PORTFOLIO_URL`, and `YOUR_EMAIL` with your real links.  
-4. Optional: tweak the typing text (top `readme-typing-svg` URL) to change the message and speed.
-
----
-
-Want any of these extra touches?
-- ✅ Dark / light themed stats (different `theme` param)  
-- ✅ Replace visitor badge with GitHub-based follower badge  
-- ✅ Add demo GIFs/screenshots for each project (I can craft the markdown for those)  
-- ✅ Remove any widget that you prefer not to load (privacy / speed)
-
-Tell me which extras you want and I’ll update the README accordingly.
-
+☕ Debugging is best paired with filter coffee — and I love optimizing algorithms for performance.
