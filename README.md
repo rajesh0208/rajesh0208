@@ -6,6 +6,8 @@
   <p>
     <img src="https://img.shields.io/github/followers/rajesh0208?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </p>
+  <!-- Visitor Count -->
+  ![Visitor Count](https://profile-counter.glitch.me/rajesh0208/count.svg)
 </div>
 
 ---
@@ -32,19 +34,18 @@
 
 ### ✈️ [Airline Reservation System](https://github.com/rajesh0208/Airline-Reservation-system)  
 Full-stack airline booking & management system.  
-![Airline Reservation Demo]
+
 
 ### 🎮 [Mobile Maze](https://github.com/rajesh0208/Mobile_Maze)  
 A mobile-first maze game with responsive controls and progressive difficulty.  
-![Mobile Maze Demo]
+
 
 ### 💰 [Expense Tracker](https://github.com/rajesh0208/Expense_Tracker)  
 Track income, expenses, and visualize spending trends.  
-![Expense Tracker Demo]
+
 
 ### 🌦 [Weather App](https://github.com/rajesh0208/weather)  
 Responsive weather forecast app using real-time API data.  
-![Weather App Demo]
 
 ---
 
