@@ -1,16 +1,16 @@
 <!-- Profile Header -->
 <!-- Profile Header -->
-<div align="center">
+<p align="center">
 
-  ![Rajesh's Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%6C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps" alt="Typing Animation" />
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/github/followers/rajesh0208?label=Followers&style=for-the-badge" alt="GitHub followers" />
-    <img src="https://komarev.com/ghpvc/?username=rajesh0208&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
-  </p>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rajesh0208?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=rajesh0208&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+</p>
+
 
 ---
 
