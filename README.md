@@ -8,13 +8,15 @@
   <p>
     <img src="https://img.shields.io/github/followers/rajesh0208?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </p>
+  <!-- Visitor Count -->
+  <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/rajesh0208/visits" alt="Visitor Count" />
+</p>
 
 </div>
 
-<!-- Visitor Count -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/rajesh0208/visits" alt="Visitor Count" />
-</p>
+
+
 
 
 
