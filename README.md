@@ -1,7 +1,8 @@
 <!-- Profile Header -->
+<!-- Profile Header -->
 <div align="center">
 
-  ![Rajesh's Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps)
+  ![Rajesh's Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%6C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps)
 
   <!-- Badges -->
   <p>
