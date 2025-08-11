@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps" alt="Rajesh's Typing SVG" />
+  ![Rajesh's Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&width=700&lines=Hi+there,+I'm+Rajesh+👋;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+systems+and+real-time+apps)
 
   <!-- Badges -->
   <p>
