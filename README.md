@@ -57,28 +57,22 @@ Real-time weather data with clean UI and API integration.
 
 ---
 
-## 📊 GitHub Stats (Dark / Light Mode Toggle)
+## 📊 GitHub Stats
 
-<details>
-  <summary>🌙 Dark Mode</summary>
-  
-  ![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=tokyonight)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=tokyonight)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=tokyonight)
+<div align="center">
 
-</details>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub stats (dark)" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub stats (light)" height="165" />
 
-<details>
-  <summary>☀ Light Mode</summary>
-  
-  ![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajesh0208&show_icons=true&theme=default)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=default)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=default)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top languages (dark)" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh0208&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top languages (light)" height="165" />
 
-</details>
-
----
-
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub streak (dark)" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh0208&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub streak (light)" height="165" />
+</div>
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-illapu-0962511bb/)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)-->
